@@ -1,50 +1,50 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Nintendo",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "#e60012",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Novidades sobre consoles e games",
+        "url": "https://www.youtube.com/watch?v=6oHHvgxAJ4w"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Nintendo Direct TRADICIONAL para agosto com Mario All Stars 2 [RUMOR]",
+          "url": "https://www.youtube.com/watch?v=cApbd_gXMRk"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "LEGO Super Mario Custom Build + Coin CHALLENGE!",
+          "url": "https://www.youtube.com/watch?v=FO2FyqTp-uc"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "BALAN WONDERWORLD - Title Announcement Trailer - Nintendo Switch",
+          "url": "https://www.youtube.com/watch?v=Z-XbmTtZMqI"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "The Legend of Zelda: Ocarina of Time e Timeline explicada ❘ A Timeline completa 04 ",
+          "url": "https://www.youtube.com/watch?v=W4sDvWTCAaI"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Paper Mario The Origami King AO VIVO Recuperando Meu Save",
+          "url": "youtube.com/watch?v=cINwpy6O2RU"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "CONHEÇA TODOS OS POKÉMON BETA DE DIAMANTE E PEROLA!",
+          "url": "https://www.youtube.com/watch?v=bygPARxn3yQ"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "O MAIOR EVENTO POKÉMON DO ANO COMEÇOU!!",
+          "url": "https://www.youtube.com/watch?v=mbL-ucwUjMg"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "SAPOQUEI 256 GB NO MEU 3DS, SE LIGA NO RESULTADO",
+          "url": "hhttps://www.youtube.com/watch?v=eA8mvzV63vM"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Programação",
       "cor": "#00C86F",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
@@ -52,20 +52,20 @@
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "O novo site do Curso em Vídeo: ajude a testar",
+          "url": "https://www.youtube.com/watch?v=e6XWFkzTg3Y"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "JS Day #2 - Bate papo sobre JavaScript [LIVE]",
+          "url": "https://www.youtube.com/watch?v=Iiy5hXzoEcE"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Padrões de Projeto com TypeScript - Configurando o projeto - Parte 3",
+          "url": "https://www.youtube.com/watch?v=_YV5c9ZR4TE"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Creating a Simple image slider using CSS & Javascript | Image Slideshow",
+          "url": "https://www.youtube.com/watch?v=y0XHdEeEevs"
         }, 
         {
           "titulo": "Usando Git Direito",

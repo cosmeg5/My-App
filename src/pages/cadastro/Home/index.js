@@ -37,7 +37,7 @@ function Home() {
           category={dadosIniciais.categorias[4]}
         />
 
-        //<Footer />
+        <Footer />
 
     </div>
   );
